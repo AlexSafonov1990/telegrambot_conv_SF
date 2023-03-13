@@ -1,4 +1,4 @@
-TOKEN = '5693889439:AAEAyPO5jHuRJmYJuI56tSlKtSaz5e7c0uM'
+TOKEN = 'token'
 currency_dict = {
     'Доллар': 'USD',
     'Евро': 'EUR',
