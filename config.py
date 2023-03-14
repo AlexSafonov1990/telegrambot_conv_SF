@@ -4,4 +4,4 @@ currency_dict = {
     'Евро': 'EUR',
     'Рубль': 'RUB'
 }
-APIKEY = "miFt3drMxfZrMLnkGkZFdo9tAwEDarTz"
+APIKEY = "apikey"
